@@ -23,16 +23,6 @@ vector<vector<char> > encryptAFFINE(vector<vector<char> > input, int a, int b) /
 			}
 		}
 	}
-
-	// display block. 
-	for (int i = 0; i < input.size(); i++)
-	{
-		for (int j = 0; j < input[i].size(); j++)
-		{
-			cout << input[i][j];
-		}
-		puts("");
-	}
 	return input;
 }
 
@@ -155,6 +145,7 @@ void cipherMultiplicative(vector<vector<char> > text)
 		case 2:
 			cout << "\nEncrypted string:\n";
 			cipher = encryptAFFINE(text, factor, 0);
+			displayToScreen(cipher);
 			break;
 		case 3:
 			cout << "\nDecrypted string:\n";
@@ -231,6 +222,7 @@ void cipherAffine(vector<vector<char> > text)
 		case 2:
 			cout << "\nEncrypted string:\n";
 			cipher = encryptAFFINE(text, factor, shift);
+			displayToScreen(cipher);
 			break;
 		case 3:
 			cout << "\nDecrypted string:\n";
@@ -246,8 +238,8 @@ void cipherAffine(vector<vector<char> > text)
 				{
 					for (int j = 0; j < 26; j++)
 					{
-						answer = decryptAFFINE(cipher, invertible[i], j);
-						fout << "Factor = " << invertible[i] << endl << "Shift = " << j << endl;
+						answer = decryptAFFINE(cipher, MULinverse[invertible[i]], j);
+						fout << "Original Factor = " << invertible[i] << endl << "Original Shift = " << j << endl;
 						displayToFile(answer, fout);
 						fout << "\n\n";
 					}
