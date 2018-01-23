@@ -18,6 +18,12 @@
     <Text Include="input.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="substitution.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="subKey.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -35,6 +41,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DISPLAY.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SUBSTITUTION_CIPHER.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VIGENERE_CIPHER.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

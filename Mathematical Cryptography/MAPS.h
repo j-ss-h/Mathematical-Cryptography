@@ -1,4 +1,9 @@
-// this stores maps with the values needed for modulus 26.
+/* 
+	This stores multiple global items for the ciphers:
+	1.) maps with the values needed for modulus 26.
+	2.) map with the multiplicative inverse of each int in modulus 26.
+	3.) global variables used by each cipher menu and function. 
+*/
 #include <map>
 
 // int and char refer to the return value type. 
@@ -16,5 +21,9 @@ std::map<int, char> MOD26char = { { 0, 'A' },{ 1, 'B' },{ 2, 'C' },{ 3, 'D' },{ 
 std::map<int, int> MULinverse = { { 1, 1 },{ 3, 9 },{ 5, 21 },{ 7, 15 },{ 9, 3 },{ 11, 19 },
 { 15, 7 },{ 17, 23 },{ 19, 11 },{ 21, 5 },{ 23, 17 },{ 25, 25 }, };
 
-// this contains all of the inversible factors of modulus 26. 
-vector<int> invertible = { 1, 3, 5, 7, 9, 11, 15, 17, 19, 21, 23, 25 };
+// global items used throughout these ciphers
+std::vector<vector<char> > cipher, answer;
+std::map<char, char> encryptKey, decryptKey;
+bool keyset, done;
+int choice = -1, factor = 1, shift = 1;
+std::ofstream fout;

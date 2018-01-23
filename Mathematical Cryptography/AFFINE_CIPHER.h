@@ -1,11 +1,3 @@
-#include "MAPS.h"
-
-// global items used throughout these ciphers
-vector<vector<char> > cipher, answer;
-bool done = false;
-ofstream fout;
-int choice = -1, factor = 1, shift = 1;
-
 vector<vector<char> > encryptAFFINE(vector<vector<char> > input, int a, int b) // returns encrypted 2-D char vector
 {
 	// encryption block. 
@@ -49,7 +41,9 @@ vector<vector<char> > decryptAFFINE(vector<vector<char> > input, int a, int b) /
 
 void cipherShift(vector<vector<char> > text)
 {
+	factor = 1;
 	cipher = text;
+	answer = text; // in case the original text needs decrypted. 
 	choice = -1;
 	while (choice != 0)
 	{
@@ -109,7 +103,9 @@ void cipherShift(vector<vector<char> > text)
 
 void cipherMultiplicative(vector<vector<char> > text)
 {
+	shift = 0;
 	cipher = text;
+	answer = text; // in case the original text needs decrypted. 
 	choice = -1;
 	while (choice != 0)
 	{
@@ -124,13 +120,14 @@ void cipherMultiplicative(vector<vector<char> > text)
 		switch (choice)
 		{
 		case 1:
+			done = false;
 			while (!done)
 			{
 				cout << "\nEnter factor value (must be invertible): ";
 				cin >> factor;
-				for (int i = 0; i < invertible.size(); i++)
+				for (map<int, int>::iterator it = MULinverse.begin(); it != MULinverse.end() && !done; it++)
 				{
-					if (invertible[i] == factor)
+					if (it->first == factor)
 					{
 						done = true;
 					}
@@ -157,10 +154,10 @@ void cipherMultiplicative(vector<vector<char> > text)
 			if (fout.is_open())
 			{
 				cout << "All possible factor values have been attempted and sent to \"output.txt\"\n";
-				for (int i = 1; i < 12; i++)
+				for (map<int, int>::iterator it = MULinverse.begin(); it != MULinverse.end(); it++)
 				{
-					answer = decryptAFFINE(cipher, invertible[i], 0);
-					fout << "Factor = " << invertible[i] << endl;
+					answer = decryptAFFINE(cipher, it->first, 0);
+					fout << "Factor = " << it->first << endl;
 					displayToFile(answer, fout);
 					fout << "\n\n";
 				}
@@ -185,6 +182,7 @@ void cipherMultiplicative(vector<vector<char> > text)
 void cipherAffine(vector<vector<char> > text)
 {
 	cipher = text;
+	answer = text; // in case the original text needs decrypted. 
 	choice = -1;
 	while (choice != 0)
 	{
@@ -203,9 +201,9 @@ void cipherAffine(vector<vector<char> > text)
 			{
 				cout << "\nEnter factor value (must be invertible): ";
 				cin >> factor;
-				for (int i = 0; i < invertible.size(); i++)
+				for (map<int, int>::iterator it = MULinverse.begin(); it != MULinverse.end() && !done; it++)
 				{
-					if (invertible[i] == factor)
+					if (it->first == factor)
 					{
 						done = true;
 					}
@@ -234,12 +232,12 @@ void cipherAffine(vector<vector<char> > text)
 			if (fout.is_open())
 			{
 				cout << "All possible factor and shift values have been attempted and sent to \"output.txt\"\n";
-				for (int i = 0; i < 12; i++)
+				for (map<int, int>::iterator it = MULinverse.begin(); it != MULinverse.end() && !done; it++)
 				{
 					for (int j = 0; j < 26; j++)
 					{
-						answer = decryptAFFINE(cipher, MULinverse[invertible[i]], j);
-						fout << "Original Factor = " << invertible[i] << endl << "Original Shift = " << j << endl;
+						answer = decryptAFFINE(cipher, MULinverse[it->first], j);
+						fout << "Original Factor = " << it->first << endl << "Original Shift = " << j << endl;
 						displayToFile(answer, fout);
 						fout << "\n\n";
 					}

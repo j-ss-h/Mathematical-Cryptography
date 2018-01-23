@@ -116,6 +116,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <Text Include="input.txt" />
+    <Text Include="subKey.txt" />
+    <Text Include="substitution.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
@@ -125,6 +127,8 @@
     <ClInclude Include="DISPLAY.h" />
     <ClInclude Include="INTERFACE.h" />
     <ClInclude Include="MAPS.h" />
+    <ClInclude Include="SUBSTITUTION_CIPHER.h" />
+    <ClInclude Include="VIGENERE_CIPHER.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,1560 +1,1560 @@
-Factor = 1
-Shift = 0
+Original Factor = 1
+Original Shift = 0
 ELLJZQICRW'GZUDGQG
 
 
-Factor = 1
-Shift = 1
+Original Factor = 1
+Original Shift = 1
 DKKIYPHBQV'FYTCFPF
 
 
-Factor = 1
-Shift = 2
+Original Factor = 1
+Original Shift = 2
 CJJHXOGAPU'EXSBEOE
 
 
-Factor = 1
-Shift = 3
+Original Factor = 1
+Original Shift = 3
 BIIGWNFZOT'DWRADND
 
 
-Factor = 1
-Shift = 4
+Original Factor = 1
+Original Shift = 4
 AHHFVMEYNS'CVQZCMC
 
 
-Factor = 1
-Shift = 5
+Original Factor = 1
+Original Shift = 5
 ZGGEULDXMR'BUPYBLB
 
 
-Factor = 1
-Shift = 6
+Original Factor = 1
+Original Shift = 6
 YFFDTKCWLQ'ATOXAKA
 
 
-Factor = 1
-Shift = 7
+Original Factor = 1
+Original Shift = 7
 XEECSJBVKP'ZSNWZJZ
 
 
-Factor = 1
-Shift = 8
+Original Factor = 1
+Original Shift = 8
 WDDBRIAUJO'YRMVYIY
 
 
-Factor = 1
-Shift = 9
+Original Factor = 1
+Original Shift = 9
 VCCAQHZTIN'XQLUXHX
 
 
-Factor = 1
-Shift = 10
+Original Factor = 1
+Original Shift = 10
 UBBZPGYSHM'WPKTWGW
 
 
-Factor = 1
-Shift = 11
+Original Factor = 1
+Original Shift = 11
 TAAYOFXRGL'VOJSVFV
 
 
-Factor = 1
-Shift = 12
+Original Factor = 1
+Original Shift = 12
 SZZXNEWQFK'UNIRUEU
 
 
-Factor = 1
-Shift = 13
+Original Factor = 1
+Original Shift = 13
 RYYWMDVPEJ'TMHQTDT
 
 
-Factor = 1
-Shift = 14
+Original Factor = 1
+Original Shift = 14
 QXXVLCUODI'SLGPSCS
 
 
-Factor = 1
-Shift = 15
+Original Factor = 1
+Original Shift = 15
 PWWUKBTNCH'RKFORBR
 
 
-Factor = 1
-Shift = 16
+Original Factor = 1
+Original Shift = 16
 OVVTJASMBG'QJENQAQ
 
 
-Factor = 1
-Shift = 17
+Original Factor = 1
+Original Shift = 17
 NUUSIZRLAF'PIDMPZP
 
 
-Factor = 1
-Shift = 18
+Original Factor = 1
+Original Shift = 18
 MTTRHYQKZE'OHCLOYO
 
 
-Factor = 1
-Shift = 19
+Original Factor = 1
+Original Shift = 19
 LSSQGXPJYD'NGBKNXN
 
 
-Factor = 1
-Shift = 20
+Original Factor = 1
+Original Shift = 20
 KRRPFWOIXC'MFAJMWM
 
 
-Factor = 1
-Shift = 21
+Original Factor = 1
+Original Shift = 21
 JQQOEVNHWB'LEZILVL
 
 
-Factor = 1
-Shift = 22
+Original Factor = 1
+Original Shift = 22
 IPPNDUMGVA'KDYHKUK
 
 
-Factor = 1
-Shift = 23
+Original Factor = 1
+Original Shift = 23
 HOOMCTLFUZ'JCXGJTJ
 
 
-Factor = 1
-Shift = 24
+Original Factor = 1
+Original Shift = 24
 GNNLBSKETY'IBWFISI
 
 
-Factor = 1
-Shift = 25
+Original Factor = 1
+Original Shift = 25
 FMMKARJDSX'HAVEHRH
 
 
-Factor = 3
-Shift = 0
+Original Factor = 3
+Original Shift = 0
 KVVDROUSXQ'CRYBCOC
 
 
-Factor = 3
-Shift = 1
+Original Factor = 3
+Original Shift = 1
 BMMUIFLJOH'TIPSTFT
 
 
-Factor = 3
-Shift = 2
+Original Factor = 3
+Original Shift = 2
 SDDLZWCAFY'KZGJKWK
 
 
-Factor = 3
-Shift = 3
+Original Factor = 3
+Original Shift = 3
 JUUCQNTRWP'BQXABNB
 
 
-Factor = 3
-Shift = 4
+Original Factor = 3
+Original Shift = 4
 ALLTHEKING'SHORSES
 
 
-Factor = 3
-Shift = 5
+Original Factor = 3
+Original Shift = 5
 RCCKYVBZEX'JYFIJVJ
 
 
-Factor = 3
-Shift = 6
+Original Factor = 3
+Original Shift = 6
 ITTBPMSQVO'APWZAMA
 
 
-Factor = 3
-Shift = 7
+Original Factor = 3
+Original Shift = 7
 ZKKSGDJHMF'RGNQRDR
 
 
-Factor = 3
-Shift = 8
+Original Factor = 3
+Original Shift = 8
 QBBJXUAYDW'IXEHIUI
 
 
-Factor = 3
-Shift = 9
+Original Factor = 3
+Original Shift = 9
 HSSAOLRPUN'ZOVYZLZ
 
 
-Factor = 3
-Shift = 10
+Original Factor = 3
+Original Shift = 10
 YJJRFCIGLE'QFMPQCQ
 
 
-Factor = 3
-Shift = 11
+Original Factor = 3
+Original Shift = 11
 PAAIWTZXCV'HWDGHTH
 
 
-Factor = 3
-Shift = 12
+Original Factor = 3
+Original Shift = 12
 GRRZNKQOTM'YNUXYKY
 
 
-Factor = 3
-Shift = 13
+Original Factor = 3
+Original Shift = 13
 XIIQEBHFKD'PELOPBP
 
 
-Factor = 3
-Shift = 14
+Original Factor = 3
+Original Shift = 14
 OZZHVSYWBU'GVCFGSG
 
 
-Factor = 3
-Shift = 15
+Original Factor = 3
+Original Shift = 15
 FQQYMJPNSL'XMTWXJX
 
 
-Factor = 3
-Shift = 16
+Original Factor = 3
+Original Shift = 16
 WHHPDAGEJC'ODKNOAO
 
 
-Factor = 3
-Shift = 17
+Original Factor = 3
+Original Shift = 17
 NYYGURXVAT'FUBEFRF
 
 
-Factor = 3
-Shift = 18
+Original Factor = 3
+Original Shift = 18
 EPPXLIOMRK'WLSVWIW
 
 
-Factor = 3
-Shift = 19
+Original Factor = 3
+Original Shift = 19
 VGGOCZFDIB'NCJMNZN
 
 
-Factor = 3
-Shift = 20
+Original Factor = 3
+Original Shift = 20
 MXXFTQWUZS'ETADEQE
 
 
-Factor = 3
-Shift = 21
+Original Factor = 3
+Original Shift = 21
 DOOWKHNLQJ'VKRUVHV
 
 
-Factor = 3
-Shift = 22
+Original Factor = 3
+Original Shift = 22
 UFFNBYECHA'MBILMYM
 
 
-Factor = 3
-Shift = 23
+Original Factor = 3
+Original Shift = 23
 LWWESPVTYR'DSZCDPD
 
 
-Factor = 3
-Shift = 24
+Original Factor = 3
+Original Shift = 24
 CNNVJGMKPI'UJQTUGU
 
 
-Factor = 3
-Shift = 25
+Original Factor = 3
+Original Shift = 25
 TEEMAXDBGZ'LAHKLXL
 
 
-Factor = 5
-Shift = 0
+Original Factor = 5
+Original Shift = 0
 GXXHFYMQTU'WFELWYW
 
 
-Factor = 5
-Shift = 1
+Original Factor = 5
+Original Shift = 1
 LCCMKDRVYZ'BKJQBDB
 
 
-Factor = 5
-Shift = 2
+Original Factor = 5
+Original Shift = 2
 QHHRPIWADE'GPOVGIG
 
 
-Factor = 5
-Shift = 3
+Original Factor = 5
+Original Shift = 3
 VMMWUNBFIJ'LUTALNL
 
 
-Factor = 5
-Shift = 4
+Original Factor = 5
+Original Shift = 4
 ARRBZSGKNO'QZYFQSQ
 
 
-Factor = 5
-Shift = 5
+Original Factor = 5
+Original Shift = 5
 FWWGEXLPST'VEDKVXV
 
 
-Factor = 5
-Shift = 6
+Original Factor = 5
+Original Shift = 6
 KBBLJCQUXY'AJIPACA
 
 
-Factor = 5
-Shift = 7
+Original Factor = 5
+Original Shift = 7
 PGGQOHVZCD'FONUFHF
 
 
-Factor = 5
-Shift = 8
+Original Factor = 5
+Original Shift = 8
 ULLVTMAEHI'KTSZKMK
 
 
-Factor = 5
-Shift = 9
+Original Factor = 5
+Original Shift = 9
 ZQQAYRFJMN'PYXEPRP
 
 
-Factor = 5
-Shift = 10
+Original Factor = 5
+Original Shift = 10
 EVVFDWKORS'UDCJUWU
 
 
-Factor = 5
-Shift = 11
+Original Factor = 5
+Original Shift = 11
 JAAKIBPTWX'ZIHOZBZ
 
 
-Factor = 5
-Shift = 12
+Original Factor = 5
+Original Shift = 12
 OFFPNGUYBC'ENMTEGE
 
 
-Factor = 5
-Shift = 13
+Original Factor = 5
+Original Shift = 13
 TKKUSLZDGH'JSRYJLJ
 
 
-Factor = 5
-Shift = 14
+Original Factor = 5
+Original Shift = 14
 YPPZXQEILM'OXWDOQO
 
 
-Factor = 5
-Shift = 15
+Original Factor = 5
+Original Shift = 15
 DUUECVJNQR'TCBITVT
 
 
-Factor = 5
-Shift = 16
+Original Factor = 5
+Original Shift = 16
 IZZJHAOSVW'YHGNYAY
 
 
-Factor = 5
-Shift = 17
+Original Factor = 5
+Original Shift = 17
 NEEOMFTXAB'DMLSDFD
 
 
-Factor = 5
-Shift = 18
+Original Factor = 5
+Original Shift = 18
 SJJTRKYCFG'IRQXIKI
 
 
-Factor = 5
-Shift = 19
+Original Factor = 5
+Original Shift = 19
 XOOYWPDHKL'NWVCNPN
 
 
-Factor = 5
-Shift = 20
+Original Factor = 5
+Original Shift = 20
 CTTDBUIMPQ'SBAHSUS
 
 
-Factor = 5
-Shift = 21
+Original Factor = 5
+Original Shift = 21
 HYYIGZNRUV'XGFMXZX
 
 
-Factor = 5
-Shift = 22
+Original Factor = 5
+Original Shift = 22
 MDDNLESWZA'CLKRCEC
 
 
-Factor = 5
-Shift = 23
+Original Factor = 5
+Original Shift = 23
 RIISQJXBEF'HQPWHJH
 
 
-Factor = 5
-Shift = 24
+Original Factor = 5
+Original Shift = 24
 WNNXVOCGJK'MVUBMOM
 
 
-Factor = 5
-Shift = 25
+Original Factor = 5
+Original Shift = 25
 BSSCATHLOP'RAZGRTR
 
 
-Factor = 7
-Shift = 0
+Original Factor = 7
+Original Shift = 0
 IJJFLGQEVS'MLOTMGM
 
 
-Factor = 7
-Shift = 1
+Original Factor = 7
+Original Shift = 1
 TUUQWRBPGD'XWZEXRX
 
 
-Factor = 7
-Shift = 2
+Original Factor = 7
+Original Shift = 2
 EFFBHCMARO'IHKPICI
 
 
-Factor = 7
-Shift = 3
+Original Factor = 7
+Original Shift = 3
 PQQMSNXLCZ'TSVATNT
 
 
-Factor = 7
-Shift = 4
+Original Factor = 7
+Original Shift = 4
 ABBXDYIWNK'EDGLEYE
 
 
-Factor = 7
-Shift = 5
+Original Factor = 7
+Original Shift = 5
 LMMIOJTHYV'PORWPJP
 
 
-Factor = 7
-Shift = 6
+Original Factor = 7
+Original Shift = 6
 WXXTZUESJG'AZCHAUA
 
 
-Factor = 7
-Shift = 7
+Original Factor = 7
+Original Shift = 7
 HIIEKFPDUR'LKNSLFL
 
 
-Factor = 7
-Shift = 8
+Original Factor = 7
+Original Shift = 8
 STTPVQAOFC'WVYDWQW
 
 
-Factor = 7
-Shift = 9
+Original Factor = 7
+Original Shift = 9
 DEEAGBLZQN'HGJOHBH
 
 
-Factor = 7
-Shift = 10
+Original Factor = 7
+Original Shift = 10
 OPPLRMWKBY'SRUZSMS
 
 
-Factor = 7
-Shift = 11
+Original Factor = 7
+Original Shift = 11
 ZAAWCXHVMJ'DCFKDXD
 
 
-Factor = 7
-Shift = 12
+Original Factor = 7
+Original Shift = 12
 KLLHNISGXU'ONQVOIO
 
 
-Factor = 7
-Shift = 13
+Original Factor = 7
+Original Shift = 13
 VWWSYTDRIF'ZYBGZTZ
 
 
-Factor = 7
-Shift = 14
+Original Factor = 7
+Original Shift = 14
 GHHDJEOCTQ'KJMRKEK
 
 
-Factor = 7
-Shift = 15
+Original Factor = 7
+Original Shift = 15
 RSSOUPZNEB'VUXCVPV
 
 
-Factor = 7
-Shift = 16
+Original Factor = 7
+Original Shift = 16
 CDDZFAKYPM'GFINGAG
 
 
-Factor = 7
-Shift = 17
+Original Factor = 7
+Original Shift = 17
 NOOKQLVJAX'RQTYRLR
 
 
-Factor = 7
-Shift = 18
+Original Factor = 7
+Original Shift = 18
 YZZVBWGULI'CBEJCWC
 
 
-Factor = 7
-Shift = 19
+Original Factor = 7
+Original Shift = 19
 JKKGMHRFWT'NMPUNHN
 
 
-Factor = 7
-Shift = 20
+Original Factor = 7
+Original Shift = 20
 UVVRXSCQHE'YXAFYSY
 
 
-Factor = 7
-Shift = 21
+Original Factor = 7
+Original Shift = 21
 FGGCIDNBSP'JILQJDJ
 
 
-Factor = 7
-Shift = 22
+Original Factor = 7
+Original Shift = 22
 QRRNTOYMDA'UTWBUOU
 
 
-Factor = 7
-Shift = 23
+Original Factor = 7
+Original Shift = 23
 BCCYEZJXOL'FEHMFZF
 
 
-Factor = 7
-Shift = 24
+Original Factor = 7
+Original Shift = 24
 MNNJPKUIZW'QPSXQKQ
 
 
-Factor = 7
-Shift = 25
+Original Factor = 7
+Original Shift = 25
 XYYUAVFTKH'BADIBVB
 
 
-Factor = 9
-Shift = 0
+Original Factor = 9
+Original Shift = 0
 MHHBXWYGZO'SXIJSWS
 
 
-Factor = 9
-Shift = 1
+Original Factor = 9
+Original Shift = 1
 JEEYUTVDWL'PUFGPTP
 
 
-Factor = 9
-Shift = 2
+Original Factor = 9
+Original Shift = 2
 GBBVRQSATI'MRCDMQM
 
 
-Factor = 9
-Shift = 3
+Original Factor = 9
+Original Shift = 3
 DYYSONPXQF'JOZAJNJ
 
 
-Factor = 9
-Shift = 4
+Original Factor = 9
+Original Shift = 4
 AVVPLKMUNC'GLWXGKG
 
 
-Factor = 9
-Shift = 5
+Original Factor = 9
+Original Shift = 5
 XSSMIHJRKZ'DITUDHD
 
 
-Factor = 9
-Shift = 6
+Original Factor = 9
+Original Shift = 6
 UPPJFEGOHW'AFQRAEA
 
 
-Factor = 9
-Shift = 7
+Original Factor = 9
+Original Shift = 7
 RMMGCBDLET'XCNOXBX
 
 
-Factor = 9
-Shift = 8
+Original Factor = 9
+Original Shift = 8
 OJJDZYAIBQ'UZKLUYU
 
 
-Factor = 9
-Shift = 9
+Original Factor = 9
+Original Shift = 9
 LGGAWVXFYN'RWHIRVR
 
 
-Factor = 9
-Shift = 10
+Original Factor = 9
+Original Shift = 10
 IDDXTSUCVK'OTEFOSO
 
 
-Factor = 9
-Shift = 11
+Original Factor = 9
+Original Shift = 11
 FAAUQPRZSH'LQBCLPL
 
 
-Factor = 9
-Shift = 12
+Original Factor = 9
+Original Shift = 12
 CXXRNMOWPE'INYZIMI
 
 
-Factor = 9
-Shift = 13
+Original Factor = 9
+Original Shift = 13
 ZUUOKJLTMB'FKVWFJF
 
 
-Factor = 9
-Shift = 14
+Original Factor = 9
+Original Shift = 14
 WRRLHGIQJY'CHSTCGC
 
 
-Factor = 9
-Shift = 15
+Original Factor = 9
+Original Shift = 15
 TOOIEDFNGV'ZEPQZDZ
 
 
-Factor = 9
-Shift = 16
+Original Factor = 9
+Original Shift = 16
 QLLFBACKDS'WBMNWAW
 
 
-Factor = 9
-Shift = 17
+Original Factor = 9
+Original Shift = 17
 NIICYXZHAP'TYJKTXT
 
 
-Factor = 9
-Shift = 18
+Original Factor = 9
+Original Shift = 18
 KFFZVUWEXM'QVGHQUQ
 
 
-Factor = 9
-Shift = 19
+Original Factor = 9
+Original Shift = 19
 HCCWSRTBUJ'NSDENRN
 
 
-Factor = 9
-Shift = 20
+Original Factor = 9
+Original Shift = 20
 EZZTPOQYRG'KPABKOK
 
 
-Factor = 9
-Shift = 21
+Original Factor = 9
+Original Shift = 21
 BWWQMLNVOD'HMXYHLH
 
 
-Factor = 9
-Shift = 22
+Original Factor = 9
+Original Shift = 22
 YTTNJIKSLA'EJUVEIE
 
 
-Factor = 9
-Shift = 23
+Original Factor = 9
+Original Shift = 23
 VQQKGFHPIX'BGRSBFB
 
 
-Factor = 9
-Shift = 24
+Original Factor = 9
+Original Shift = 24
 SNNHDCEMFU'YDOPYCY
 
 
-Factor = 9
-Shift = 25
+Original Factor = 9
+Original Shift = 25
 PKKEAZBJCR'VALMVZV
 
 
-Factor = 11
-Shift = 0
+Original Factor = 11
+Original Shift = 0
 YBBPHSWMLC'KHQFKSK
 
 
-Factor = 11
-Shift = 1
+Original Factor = 11
+Original Shift = 1
 FIIWOZDTSJ'ROXMRZR
 
 
-Factor = 11
-Shift = 2
+Original Factor = 11
+Original Shift = 2
 MPPDVGKAZQ'YVETYGY
 
 
-Factor = 11
-Shift = 3
+Original Factor = 11
+Original Shift = 3
 TWWKCNRHGX'FCLAFNF
 
 
-Factor = 11
-Shift = 4
+Original Factor = 11
+Original Shift = 4
 ADDRJUYONE'MJSHMUM
 
 
-Factor = 11
-Shift = 5
+Original Factor = 11
+Original Shift = 5
 HKKYQBFVUL'TQZOTBT
 
 
-Factor = 11
-Shift = 6
+Original Factor = 11
+Original Shift = 6
 ORRFXIMCBS'AXGVAIA
 
 
-Factor = 11
-Shift = 7
+Original Factor = 11
+Original Shift = 7
 VYYMEPTJIZ'HENCHPH
 
 
-Factor = 11
-Shift = 8
+Original Factor = 11
+Original Shift = 8
 CFFTLWAQPG'OLUJOWO
 
 
-Factor = 11
-Shift = 9
+Original Factor = 11
+Original Shift = 9
 JMMASDHXWN'VSBQVDV
 
 
-Factor = 11
-Shift = 10
+Original Factor = 11
+Original Shift = 10
 QTTHZKOEDU'CZIXCKC
 
 
-Factor = 11
-Shift = 11
+Original Factor = 11
+Original Shift = 11
 XAAOGRVLKB'JGPEJRJ
 
 
-Factor = 11
-Shift = 12
+Original Factor = 11
+Original Shift = 12
 EHHVNYCSRI'QNWLQYQ
 
 
-Factor = 11
-Shift = 13
+Original Factor = 11
+Original Shift = 13
 LOOCUFJZYP'XUDSXFX
 
 
-Factor = 11
-Shift = 14
+Original Factor = 11
+Original Shift = 14
 SVVJBMQGFW'EBKZEME
 
 
-Factor = 11
-Shift = 15
+Original Factor = 11
+Original Shift = 15
 ZCCQITXNMD'LIRGLTL
 
 
-Factor = 11
-Shift = 16
+Original Factor = 11
+Original Shift = 16
 GJJXPAEUTK'SPYNSAS
 
 
-Factor = 11
-Shift = 17
+Original Factor = 11
+Original Shift = 17
 NQQEWHLBAR'ZWFUZHZ
 
 
-Factor = 11
-Shift = 18
+Original Factor = 11
+Original Shift = 18
 UXXLDOSIHY'GDMBGOG
 
 
-Factor = 11
-Shift = 19
+Original Factor = 11
+Original Shift = 19
 BEESKVZPOF'NKTINVN
 
 
-Factor = 11
-Shift = 20
+Original Factor = 11
+Original Shift = 20
 ILLZRCGWVM'URAPUCU
 
 
-Factor = 11
-Shift = 21
+Original Factor = 11
+Original Shift = 21
 PSSGYJNDCT'BYHWBJB
 
 
-Factor = 11
-Shift = 22
+Original Factor = 11
+Original Shift = 22
 WZZNFQUKJA'IFODIQI
 
 
-Factor = 11
-Shift = 23
+Original Factor = 11
+Original Shift = 23
 DGGUMXBRQH'PMVKPXP
 
 
-Factor = 11
-Shift = 24
+Original Factor = 11
+Original Shift = 24
 KNNBTEIYXO'WTCRWEW
 
 
-Factor = 11
-Shift = 25
+Original Factor = 11
+Original Shift = 25
 RUUIALPFEV'DAJYDLD
 
 
-Factor = 15
-Shift = 0
+Original Factor = 15
+Original Shift = 0
 CZZLTIEOPY'QTKVQIQ
 
 
-Factor = 15
-Shift = 1
+Original Factor = 15
+Original Shift = 1
 VSSEMBXHIR'JMDOJBJ
 
 
-Factor = 15
-Shift = 2
+Original Factor = 15
+Original Shift = 2
 OLLXFUQABK'CFWHCUC
 
 
-Factor = 15
-Shift = 3
+Original Factor = 15
+Original Shift = 3
 HEEQYNJTUD'VYPAVNV
 
 
-Factor = 15
-Shift = 4
+Original Factor = 15
+Original Shift = 4
 AXXJRGCMNW'ORITOGO
 
 
-Factor = 15
-Shift = 5
+Original Factor = 15
+Original Shift = 5
 TQQCKZVFGP'HKBMHZH
 
 
-Factor = 15
-Shift = 6
+Original Factor = 15
+Original Shift = 6
 MJJVDSOYZI'ADUFASA
 
 
-Factor = 15
-Shift = 7
+Original Factor = 15
+Original Shift = 7
 FCCOWLHRSB'TWNYTLT
 
 
-Factor = 15
-Shift = 8
+Original Factor = 15
+Original Shift = 8
 YVVHPEAKLU'MPGRMEM
 
 
-Factor = 15
-Shift = 9
+Original Factor = 15
+Original Shift = 9
 ROOAIXTDEN'FIZKFXF
 
 
-Factor = 15
-Shift = 10
+Original Factor = 15
+Original Shift = 10
 KHHTBQMWXG'YBSDYQY
 
 
-Factor = 15
-Shift = 11
+Original Factor = 15
+Original Shift = 11
 DAAMUJFPQZ'RULWRJR
 
 
-Factor = 15
-Shift = 12
+Original Factor = 15
+Original Shift = 12
 WTTFNCYIJS'KNEPKCK
 
 
-Factor = 15
-Shift = 13
+Original Factor = 15
+Original Shift = 13
 PMMYGVRBCL'DGXIDVD
 
 
-Factor = 15
-Shift = 14
+Original Factor = 15
+Original Shift = 14
 IFFRZOKUVE'WZQBWOW
 
 
-Factor = 15
-Shift = 15
+Original Factor = 15
+Original Shift = 15
 BYYKSHDNOX'PSJUPHP
 
 
-Factor = 15
-Shift = 16
+Original Factor = 15
+Original Shift = 16
 URRDLAWGHQ'ILCNIAI
 
 
-Factor = 15
-Shift = 17
+Original Factor = 15
+Original Shift = 17
 NKKWETPZAJ'BEVGBTB
 
 
-Factor = 15
-Shift = 18
+Original Factor = 15
+Original Shift = 18
 GDDPXMISTC'UXOZUMU
 
 
-Factor = 15
-Shift = 19
+Original Factor = 15
+Original Shift = 19
 ZWWIQFBLMV'NQHSNFN
 
 
-Factor = 15
-Shift = 20
+Original Factor = 15
+Original Shift = 20
 SPPBJYUEFO'GJALGYG
 
 
-Factor = 15
-Shift = 21
+Original Factor = 15
+Original Shift = 21
 LIIUCRNXYH'ZCTEZRZ
 
 
-Factor = 15
-Shift = 22
+Original Factor = 15
+Original Shift = 22
 EBBNVKGQRA'SVMXSKS
 
 
-Factor = 15
-Shift = 23
+Original Factor = 15
+Original Shift = 23
 XUUGODZJKT'LOFQLDL
 
 
-Factor = 15
-Shift = 24
+Original Factor = 15
+Original Shift = 24
 QNNZHWSCDM'EHYJEWE
 
 
-Factor = 15
-Shift = 25
+Original Factor = 15
+Original Shift = 25
 JGGSAPLVWF'XARCXPX
 
 
-Factor = 17
-Shift = 0
+Original Factor = 17
+Original Shift = 0
 OTTZDECUBM'IDSRIEI
 
 
-Factor = 17
-Shift = 1
+Original Factor = 17
+Original Shift = 1
 RWWCGHFXEP'LGVULHL
 
 
-Factor = 17
-Shift = 2
+Original Factor = 17
+Original Shift = 2
 UZZFJKIAHS'OJYXOKO
 
 
-Factor = 17
-Shift = 3
+Original Factor = 17
+Original Shift = 3
 XCCIMNLDKV'RMBARNR
 
 
-Factor = 17
-Shift = 4
+Original Factor = 17
+Original Shift = 4
 AFFLPQOGNY'UPEDUQU
 
 
-Factor = 17
-Shift = 5
+Original Factor = 17
+Original Shift = 5
 DIIOSTRJQB'XSHGXTX
 
 
-Factor = 17
-Shift = 6
+Original Factor = 17
+Original Shift = 6
 GLLRVWUMTE'AVKJAWA
 
 
-Factor = 17
-Shift = 7
+Original Factor = 17
+Original Shift = 7
 JOOUYZXPWH'DYNMDZD
 
 
-Factor = 17
-Shift = 8
+Original Factor = 17
+Original Shift = 8
 MRRXBCASZK'GBQPGCG
 
 
-Factor = 17
-Shift = 9
+Original Factor = 17
+Original Shift = 9
 PUUAEFDVCN'JETSJFJ
 
 
-Factor = 17
-Shift = 10
+Original Factor = 17
+Original Shift = 10
 SXXDHIGYFQ'MHWVMIM
 
 
-Factor = 17
-Shift = 11
+Original Factor = 17
+Original Shift = 11
 VAAGKLJBIT'PKZYPLP
 
 
-Factor = 17
-Shift = 12
+Original Factor = 17
+Original Shift = 12
 YDDJNOMELW'SNCBSOS
 
 
-Factor = 17
-Shift = 13
+Original Factor = 17
+Original Shift = 13
 BGGMQRPHOZ'VQFEVRV
 
 
-Factor = 17
-Shift = 14
+Original Factor = 17
+Original Shift = 14
 EJJPTUSKRC'YTIHYUY
 
 
-Factor = 17
-Shift = 15
+Original Factor = 17
+Original Shift = 15
 HMMSWXVNUF'BWLKBXB
 
 
-Factor = 17
-Shift = 16
+Original Factor = 17
+Original Shift = 16
 KPPVZAYQXI'EZONEAE
 
 
-Factor = 17
-Shift = 17
+Original Factor = 17
+Original Shift = 17
 NSSYCDBTAL'HCRQHDH
 
 
-Factor = 17
-Shift = 18
+Original Factor = 17
+Original Shift = 18
 QVVBFGEWDO'KFUTKGK
 
 
-Factor = 17
-Shift = 19
+Original Factor = 17
+Original Shift = 19
 TYYEIJHZGR'NIXWNJN
 
 
-Factor = 17
-Shift = 20
+Original Factor = 17
+Original Shift = 20
 WBBHLMKCJU'QLAZQMQ
 
 
-Factor = 17
-Shift = 21
+Original Factor = 17
+Original Shift = 21
 ZEEKOPNFMX'TODCTPT
 
 
-Factor = 17
-Shift = 22
+Original Factor = 17
+Original Shift = 22
 CHHNRSQIPA'WRGFWSW
 
 
-Factor = 17
-Shift = 23
+Original Factor = 17
+Original Shift = 23
 FKKQUVTLSD'ZUJIZVZ
 
 
-Factor = 17
-Shift = 24
+Original Factor = 17
+Original Shift = 24
 INNTXYWOVG'CXMLCYC
 
 
-Factor = 17
-Shift = 25
+Original Factor = 17
+Original Shift = 25
 LQQWABZRYJ'FAPOFBF
 
 
-Factor = 19
-Shift = 0
+Original Factor = 19
+Original Shift = 0
 SRRVPUKWFI'OPMHOUO
 
 
-Factor = 19
-Shift = 1
+Original Factor = 19
+Original Shift = 1
 HGGKEJZLUX'DEBWDJD
 
 
-Factor = 19
-Shift = 2
+Original Factor = 19
+Original Shift = 2
 WVVZTYOAJM'STQLSYS
 
 
-Factor = 19
-Shift = 3
+Original Factor = 19
+Original Shift = 3
 LKKOINDPYB'HIFAHNH
 
 
-Factor = 19
-Shift = 4
+Original Factor = 19
+Original Shift = 4
 AZZDXCSENQ'WXUPWCW
 
 
-Factor = 19
-Shift = 5
+Original Factor = 19
+Original Shift = 5
 POOSMRHTCF'LMJELRL
 
 
-Factor = 19
-Shift = 6
+Original Factor = 19
+Original Shift = 6
 EDDHBGWIRU'ABYTAGA
 
 
-Factor = 19
-Shift = 7
+Original Factor = 19
+Original Shift = 7
 TSSWQVLXGJ'PQNIPVP
 
 
-Factor = 19
-Shift = 8
+Original Factor = 19
+Original Shift = 8
 IHHLFKAMVY'EFCXEKE
 
 
-Factor = 19
-Shift = 9
+Original Factor = 19
+Original Shift = 9
 XWWAUZPBKN'TURMTZT
 
 
-Factor = 19
-Shift = 10
+Original Factor = 19
+Original Shift = 10
 MLLPJOEQZC'IJGBIOI
 
 
-Factor = 19
-Shift = 11
+Original Factor = 19
+Original Shift = 11
 BAAEYDTFOR'XYVQXDX
 
 
-Factor = 19
-Shift = 12
+Original Factor = 19
+Original Shift = 12
 QPPTNSIUDG'MNKFMSM
 
 
-Factor = 19
-Shift = 13
+Original Factor = 19
+Original Shift = 13
 FEEICHXJSV'BCZUBHB
 
 
-Factor = 19
-Shift = 14
+Original Factor = 19
+Original Shift = 14
 UTTXRWMYHK'QROJQWQ
 
 
-Factor = 19
-Shift = 15
+Original Factor = 19
+Original Shift = 15
 JIIMGLBNWZ'FGDYFLF
 
 
-Factor = 19
-Shift = 16
+Original Factor = 19
+Original Shift = 16
 YXXBVAQCLO'UVSNUAU
 
 
-Factor = 19
-Shift = 17
+Original Factor = 19
+Original Shift = 17
 NMMQKPFRAD'JKHCJPJ
 
 
-Factor = 19
-Shift = 18
+Original Factor = 19
+Original Shift = 18
 CBBFZEUGPS'YZWRYEY
 
 
-Factor = 19
-Shift = 19
+Original Factor = 19
+Original Shift = 19
 RQQUOTJVEH'NOLGNTN
 
 
-Factor = 19
-Shift = 20
+Original Factor = 19
+Original Shift = 20
 GFFJDIYKTW'CDAVCIC
 
 
-Factor = 19
-Shift = 21
+Original Factor = 19
+Original Shift = 21
 VUUYSXNZIL'RSPKRXR
 
 
-Factor = 19
-Shift = 22
+Original Factor = 19
+Original Shift = 22
 KJJNHMCOXA'GHEZGMG
 
 
-Factor = 19
-Shift = 23
+Original Factor = 19
+Original Shift = 23
 ZYYCWBRDMP'VWTOVBV
 
 
-Factor = 19
-Shift = 24
+Original Factor = 19
+Original Shift = 24
 ONNRLQGSBE'KLIDKQK
 
 
-Factor = 19
-Shift = 25
+Original Factor = 19
+Original Shift = 25
 DCCGAFVHQT'ZAXSZFZ
 
 
-Factor = 21
-Shift = 0
+Original Factor = 21
+Original Shift = 0
 UDDTVCOKHG'EVWPECE
 
 
-Factor = 21
-Shift = 1
+Original Factor = 21
+Original Shift = 1
 PYYOQXJFCB'ZQRKZXZ
 
 
-Factor = 21
-Shift = 2
+Original Factor = 21
+Original Shift = 2
 KTTJLSEAXW'ULMFUSU
 
 
-Factor = 21
-Shift = 3
+Original Factor = 21
+Original Shift = 3
 FOOEGNZVSR'PGHAPNP
 
 
-Factor = 21
-Shift = 4
+Original Factor = 21
+Original Shift = 4
 AJJZBIUQNM'KBCVKIK
 
 
-Factor = 21
-Shift = 5
+Original Factor = 21
+Original Shift = 5
 VEEUWDPLIH'FWXQFDF
 
 
-Factor = 21
-Shift = 6
+Original Factor = 21
+Original Shift = 6
 QZZPRYKGDC'ARSLAYA
 
 
-Factor = 21
-Shift = 7
+Original Factor = 21
+Original Shift = 7
 LUUKMTFBYX'VMNGVTV
 
 
-Factor = 21
-Shift = 8
+Original Factor = 21
+Original Shift = 8
 GPPFHOAWTS'QHIBQOQ
 
 
-Factor = 21
-Shift = 9
+Original Factor = 21
+Original Shift = 9
 BKKACJVRON'LCDWLJL
 
 
-Factor = 21
-Shift = 10
+Original Factor = 21
+Original Shift = 10
 WFFVXEQMJI'GXYRGEG
 
 
-Factor = 21
-Shift = 11
+Original Factor = 21
+Original Shift = 11
 RAAQSZLHED'BSTMBZB
 
 
-Factor = 21
-Shift = 12
+Original Factor = 21
+Original Shift = 12
 MVVLNUGCZY'WNOHWUW
 
 
-Factor = 21
-Shift = 13
+Original Factor = 21
+Original Shift = 13
 HQQGIPBXUT'RIJCRPR
 
 
-Factor = 21
-Shift = 14
+Original Factor = 21
+Original Shift = 14
 CLLBDKWSPO'MDEXMKM
 
 
-Factor = 21
-Shift = 15
+Original Factor = 21
+Original Shift = 15
 XGGWYFRNKJ'HYZSHFH
 
 
-Factor = 21
-Shift = 16
+Original Factor = 21
+Original Shift = 16
 SBBRTAMIFE'CTUNCAC
 
 
-Factor = 21
-Shift = 17
+Original Factor = 21
+Original Shift = 17
 NWWMOVHDAZ'XOPIXVX
 
 
-Factor = 21
-Shift = 18
+Original Factor = 21
+Original Shift = 18
 IRRHJQCYVU'SJKDSQS
 
 
-Factor = 21
-Shift = 19
+Original Factor = 21
+Original Shift = 19
 DMMCELXTQP'NEFYNLN
 
 
-Factor = 21
-Shift = 20
+Original Factor = 21
+Original Shift = 20
 YHHXZGSOLK'IZATIGI
 
 
-Factor = 21
-Shift = 21
+Original Factor = 21
+Original Shift = 21
 TCCSUBNJGF'DUVODBD
 
 
-Factor = 21
-Shift = 22
+Original Factor = 21
+Original Shift = 22
 OXXNPWIEBA'YPQJYWY
 
 
-Factor = 21
-Shift = 23
+Original Factor = 21
+Original Shift = 23
 JSSIKRDZWV'TKLETRT
 
 
-Factor = 21
-Shift = 24
+Original Factor = 21
+Original Shift = 24
 ENNDFMYURQ'OFGZOMO
 
 
-Factor = 21
-Shift = 25
+Original Factor = 21
+Original Shift = 25
 ZIIYAHTPML'JABUJHJ
 
 
-Factor = 23
-Shift = 0
+Original Factor = 23
+Original Shift = 0
 QFFXJMGIDK'YJCZYMY
 
 
-Factor = 23
-Shift = 1
+Original Factor = 23
+Original Shift = 1
 ZOOGSVPRMT'HSLIHVH
 
 
-Factor = 23
-Shift = 2
+Original Factor = 23
+Original Shift = 2
 IXXPBEYAVC'QBURQEQ
 
 
-Factor = 23
-Shift = 3
+Original Factor = 23
+Original Shift = 3
 RGGYKNHJEL'ZKDAZNZ
 
 
-Factor = 23
-Shift = 4
+Original Factor = 23
+Original Shift = 4
 APPHTWQSNU'ITMJIWI
 
 
-Factor = 23
-Shift = 5
+Original Factor = 23
+Original Shift = 5
 JYYQCFZBWD'RCVSRFR
 
 
-Factor = 23
-Shift = 6
+Original Factor = 23
+Original Shift = 6
 SHHZLOIKFM'ALEBAOA
 
 
-Factor = 23
-Shift = 7
+Original Factor = 23
+Original Shift = 7
 BQQIUXRTOV'JUNKJXJ
 
 
-Factor = 23
-Shift = 8
+Original Factor = 23
+Original Shift = 8
 KZZRDGACXE'SDWTSGS
 
 
-Factor = 23
-Shift = 9
+Original Factor = 23
+Original Shift = 9
 TIIAMPJLGN'BMFCBPB
 
 
-Factor = 23
-Shift = 10
+Original Factor = 23
+Original Shift = 10
 CRRJVYSUPW'KVOLKYK
 
 
-Factor = 23
-Shift = 11
+Original Factor = 23
+Original Shift = 11
 LAASEHBDYF'TEXUTHT
 
 
-Factor = 23
-Shift = 12
+Original Factor = 23
+Original Shift = 12
 UJJBNQKMHO'CNGDCQC
 
 
-Factor = 23
-Shift = 13
+Original Factor = 23
+Original Shift = 13
 DSSKWZTVQX'LWPMLZL
 
 
-Factor = 23
-Shift = 14
+Original Factor = 23
+Original Shift = 14
 MBBTFICEZG'UFYVUIU
 
 
-Factor = 23
-Shift = 15
+Original Factor = 23
+Original Shift = 15
 VKKCORLNIP'DOHEDRD
 
 
-Factor = 23
-Shift = 16
+Original Factor = 23
+Original Shift = 16
 ETTLXAUWRY'MXQNMAM
 
 
-Factor = 23
-Shift = 17
+Original Factor = 23
+Original Shift = 17
 NCCUGJDFAH'VGZWVJV
 
 
-Factor = 23
-Shift = 18
+Original Factor = 23
+Original Shift = 18
 WLLDPSMOJQ'EPIFESE
 
 
-Factor = 23
-Shift = 19
+Original Factor = 23
+Original Shift = 19
 FUUMYBVXSZ'NYRONBN
 
 
-Factor = 23
-Shift = 20
+Original Factor = 23
+Original Shift = 20
 ODDVHKEGBI'WHAXWKW
 
 
-Factor = 23
-Shift = 21
+Original Factor = 23
+Original Shift = 21
 XMMEQTNPKR'FQJGFTF
 
 
-Factor = 23
-Shift = 22
+Original Factor = 23
+Original Shift = 22
 GVVNZCWYTA'OZSPOCO
 
 
-Factor = 23
-Shift = 23
+Original Factor = 23
+Original Shift = 23
 PEEWILFHCJ'XIBYXLX
 
 
-Factor = 23
-Shift = 24
+Original Factor = 23
+Original Shift = 24
 YNNFRUOQLS'GRKHGUG
 
 
-Factor = 23
-Shift = 25
+Original Factor = 23
+Original Shift = 25
 HWWOADXZUB'PATQPDP
 
 
-Factor = 25
-Shift = 0
+Original Factor = 25
+Original Shift = 0
 WPPRBKSYJE'UBGXUKU
 
 
-Factor = 25
-Shift = 1
+Original Factor = 25
+Original Shift = 1
 XQQSCLTZKF'VCHYVLV
 
 
-Factor = 25
-Shift = 2
+Original Factor = 25
+Original Shift = 2
 YRRTDMUALG'WDIZWMW
 
 
-Factor = 25
-Shift = 3
+Original Factor = 25
+Original Shift = 3
 ZSSUENVBMH'XEJAXNX
 
 
-Factor = 25
-Shift = 4
+Original Factor = 25
+Original Shift = 4
 ATTVFOWCNI'YFKBYOY
 
 
-Factor = 25
-Shift = 5
+Original Factor = 25
+Original Shift = 5
 BUUWGPXDOJ'ZGLCZPZ
 
 
-Factor = 25
-Shift = 6
+Original Factor = 25
+Original Shift = 6
 CVVXHQYEPK'AHMDAQA
 
 
-Factor = 25
-Shift = 7
+Original Factor = 25
+Original Shift = 7
 DWWYIRZFQL'BINEBRB
 
 
-Factor = 25
-Shift = 8
+Original Factor = 25
+Original Shift = 8
 EXXZJSAGRM'CJOFCSC
 
 
-Factor = 25
-Shift = 9
+Original Factor = 25
+Original Shift = 9
 FYYAKTBHSN'DKPGDTD
 
 
-Factor = 25
-Shift = 10
+Original Factor = 25
+Original Shift = 10
 GZZBLUCITO'ELQHEUE
 
 
-Factor = 25
-Shift = 11
+Original Factor = 25
+Original Shift = 11
 HAACMVDJUP'FMRIFVF
 
 
-Factor = 25
-Shift = 12
+Original Factor = 25
+Original Shift = 12
 IBBDNWEKVQ'GNSJGWG
 
 
-Factor = 25
-Shift = 13
+Original Factor = 25
+Original Shift = 13
 JCCEOXFLWR'HOTKHXH
 
 
-Factor = 25
-Shift = 14
+Original Factor = 25
+Original Shift = 14
 KDDFPYGMXS'IPULIYI
 
 
-Factor = 25
-Shift = 15
+Original Factor = 25
+Original Shift = 15
 LEEGQZHNYT'JQVMJZJ
 
 
-Factor = 25
-Shift = 16
+Original Factor = 25
+Original Shift = 16
 MFFHRAIOZU'KRWNKAK
 
 
-Factor = 25
-Shift = 17
+Original Factor = 25
+Original Shift = 17
 NGGISBJPAV'LSXOLBL
 
 
-Factor = 25
-Shift = 18
+Original Factor = 25
+Original Shift = 18
 OHHJTCKQBW'MTYPMCM
 
 
-Factor = 25
-Shift = 19
+Original Factor = 25
+Original Shift = 19
 PIIKUDLRCX'NUZQNDN
 
 
-Factor = 25
-Shift = 20
+Original Factor = 25
+Original Shift = 20
 QJJLVEMSDY'OVAROEO
 
 
-Factor = 25
-Shift = 21
+Original Factor = 25
+Original Shift = 21
 RKKMWFNTEZ'PWBSPFP
 
 
-Factor = 25
-Shift = 22
+Original Factor = 25
+Original Shift = 22
 SLLNXGOUFA'QXCTQGQ
 
 
-Factor = 25
-Shift = 23
+Original Factor = 25
+Original Shift = 23
 TMMOYHPVGB'RYDURHR
 
 
-Factor = 25
-Shift = 24
+Original Factor = 25
+Original Shift = 24
 UNNPZIQWHC'SZEVSIS
 
 
-Factor = 25
-Shift = 25
+Original Factor = 25
+Original Shift = 25
 VOOQAJRXID'TAFWTJT
 
 
