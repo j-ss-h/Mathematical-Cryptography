@@ -5,13 +5,8 @@ vector<vector<char> > encryptVIGENERE(vector<vector<char> > input, string keyWor
 	{
 		for (int j = 0; j < input[i].size(); j++)
 		{
-			if (isalpha(input[i][j])) // skips spaces and punctuation.
+			if (isalpha(input[i][j]))
 			{
-				if (islower(input[i][j])) // converts to caps as needed. 
-				{
-					input[i][j] = toupper(input[i][j]);
-				}
-
 				input[i][j] = MOD26char[(MOD26int[input[i][j]] + MOD26int[keyWord[j % keyWord.size()]]) % 26]; // performs vigenere encryption
 			}
 		}
@@ -26,12 +21,8 @@ vector<vector<char> > decryptVIGENERE(vector<vector<char> > input, string keyWor
 	{
 		for (int j = 0; j < input[i].size(); j++)
 		{
-			if (isalpha(input[i][j])) // skips spaces and punctuation.
+			if (isalpha(input[i][j]))
 			{
-				if (islower(input[i][j])) // converts to caps as needed. 
-				{
-					input[i][j] = toupper(input[i][j]);
-				}
 				input[i][j] = MOD26char[(MOD26int[input[i][j]] + 26 - MOD26int[keyWord[j % keyWord.size()]]) % 26]; // performs vigenere decryption. 
 																					  // added 26 to account for negative values. 
 			}

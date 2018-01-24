@@ -5,12 +5,8 @@ vector<vector<char> > encryptAFFINE(vector<vector<char> > input, int a, int b) /
 	{
 		for (int j = 0; j < input[i].size(); j++)
 		{
-			if (isalpha(input[i][j])) // skips spaces and punctuation.
+			if (isalpha(input[i][j]))
 			{
-				if (islower(input[i][j])) // converts to caps as needed. 
-				{
-					input[i][j] = toupper(input[i][j]);
-				}
 				input[i][j] = MOD26char[((MOD26int[input[i][j]] * a) + b) % 26]; // performs affine encryption
 			}
 		}
@@ -25,12 +21,8 @@ vector<vector<char> > decryptAFFINE(vector<vector<char> > input, int a, int b) /
 	{
 		for (int j = 0; j < input[i].size(); j++)
 		{
-			if (isalpha(input[i][j])) // skips spaces and punctuation.
+			if (isalpha(input[i][j]))
 			{
-				if (islower(input[i][j])) // converts to caps as needed. 
-				{
-					input[i][j] = toupper(input[i][j]);
-				}
 				input[i][j] = MOD26char[((MOD26int[input[i][j]] + 26 - b) * a) % 26]; // performs affine decryption. 
 																				// added 26 to account for negative values. 
 			}

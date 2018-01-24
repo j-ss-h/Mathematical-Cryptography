@@ -34,16 +34,7 @@ void cipherInterface(void)
 			fin.open(inputS + ".txt");
 			if (fin.is_open())
 			{
-				while (getline(fin, inputS))
-				{
-					vector<char> temp;
-					for (int i = 0; i < inputS.length(); i++)
-					{
-						temp.push_back(inputS[i]);
-					}
-					text.push_back(temp);
-					inputS = "";
-				}
+				text = formatText(fin);
 				data = true;
 				fin.close();
 			}
