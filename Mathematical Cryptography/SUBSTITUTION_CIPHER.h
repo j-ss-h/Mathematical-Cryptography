@@ -5,8 +5,12 @@ vector<vector<char> > encryptSUBSTITUTION(vector<vector<char> > input) // return
 	{
 		for (int j = 0; j < input[i].size(); j++)
 		{
-			if (isalpha(input[i][j]))
+			if (isalpha(input[i][j])) // skips spaces and punctuation.
 			{
+				if (islower(input[i][j])) // converts to caps as needed. 
+				{
+					input[i][j] = toupper(input[i][j]);
+				}
 				input[i][j] = encryptKey[input[i][j]]; // performs substituion encryption
 			}
 		}
@@ -21,8 +25,12 @@ vector<vector<char> > decryptSUBSTITUTION(vector<vector<char> > input) // return
 	{
 		for (int j = 0; j < input[i].size(); j++)
 		{
-			if (isalpha(input[i][j]))
+			if (isalpha(input[i][j])) // skips spaces and punctuation.
 			{
+				if (islower(input[i][j])) // converts to caps as needed. 
+				{
+					input[i][j] = toupper(input[i][j]);
+				}
 				input[i][j] = decryptKey[input[i][j]]; // performs substituion encryption
 			}
 		}
