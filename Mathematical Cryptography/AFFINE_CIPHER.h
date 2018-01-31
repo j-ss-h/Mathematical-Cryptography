@@ -1,3 +1,10 @@
+/*
+This header contains the following ciphers:
+	Shift
+	Multiplicative
+	Affine
+*/
+
 vector<vector<char> > encryptAFFINE(vector<vector<char> > input, int a, int b) // returns encrypted 2-D char vector
 {
 	// encryption block. 

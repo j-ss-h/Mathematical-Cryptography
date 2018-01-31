@@ -24,6 +24,9 @@
     <Text Include="subKey.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -37,9 +40,6 @@
     <ClInclude Include="AFFINE_CIPHER.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MAPS.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="DISPLAY.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -47,6 +47,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="VIGENERE_CIPHER.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLOBAL_VARIABLES.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

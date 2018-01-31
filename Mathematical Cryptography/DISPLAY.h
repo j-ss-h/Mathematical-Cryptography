@@ -1,8 +1,9 @@
-#include <iostream>
-#include <vector>
-#include <string>
-#include <fstream>
-using namespace std;
+/*
+This stores methods for ouput and formatting.
+	1.) Display to screen. 
+	2.) Display to file. 
+	3.) Format plaintext (format carries over to ciphertext). 
+*/
 
 void displayToScreen(vector<vector<char> > input)
 {
@@ -41,9 +42,10 @@ vector<vector<char> > formatText(ifstream & fin)
 			{
 				if (islower(str[i])) // converts to upper case. 
 				{
-					str[i] = toupper(str[i]);
+					str[i] = toupper(str[i]); 
 				}
 				input.push_back(str[i]);
+				counter++; // keeps track of number of characters in plaintext matrix.
 			}
 		}
 		str = "";

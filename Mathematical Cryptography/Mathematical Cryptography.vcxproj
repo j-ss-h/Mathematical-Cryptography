@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <Text Include="input.txt" />
+    <Text Include="output.txt" />
     <Text Include="subKey.txt" />
     <Text Include="substitution.txt" />
   </ItemGroup>
@@ -126,7 +127,7 @@
     <ClInclude Include="AFFINE_CIPHER.h" />
     <ClInclude Include="DISPLAY.h" />
     <ClInclude Include="INTERFACE.h" />
-    <ClInclude Include="MAPS.h" />
+    <ClInclude Include="GLOBAL_VARIABLES.h" />
     <ClInclude Include="SUBSTITUTION_CIPHER.h" />
     <ClInclude Include="VIGENERE_CIPHER.h" />
   </ItemGroup>

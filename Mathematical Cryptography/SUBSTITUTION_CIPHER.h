@@ -1,3 +1,8 @@
+/*
+This header contains the following ciphers:
+	Substitution
+*/
+
 vector<vector<char> > encryptSUBSTITUTION(vector<vector<char> > input) // returns encrypted 2-D char vector
 {
 	// encryption block. 
@@ -14,7 +19,7 @@ vector<vector<char> > encryptSUBSTITUTION(vector<vector<char> > input) // return
 	return input;
 }
 
-vector<vector<char> > decryptSUBSTITUTION(vector<vector<char> > input) // returns encrypted 2-D char vector
+vector<vector<char> > decryptSUBSTITUTION(vector<vector<char> > input) // returns decrypted 2-D char vector
 {
 	// encryption block. 
 	for (int i = 0; i < input.size(); i++)
@@ -42,11 +47,11 @@ map<char, char> setOtherKey(map<char, char> input)
 
 map<char, char> setKey()
 {
-	// ASCII for 'A' is 65, 'Z' is 90.
 	char entry;
 	map<char, char> key;
 	bool duplicate;
 	for (int i = 65; i < 91; )
+		// ASCII for 'A' is 65, 'Z' is 90.
 	{
 		duplicate = false;
 		cout << (char)i << " should be substituted with: ";
@@ -58,7 +63,7 @@ map<char, char> setKey()
 		if (key.empty()) // empty case. 
 		{
 			key.insert(pair<char, char> ((char)i, entry));
-			i++; // increment of for loop variable. 
+			i++; // increment of "for loop" variable. 
 		}
 		else
 		{
@@ -73,7 +78,7 @@ map<char, char> setKey()
 			if (!duplicate)
 			{
 				key.insert(pair<char, char> ((char)i, entry));
-				i++; // increment of for loop variable. 
+				i++; // increment of "for loop" variable. 
 			}
 		}
 	}
@@ -82,7 +87,6 @@ map<char, char> setKey()
 
 map<char, char> setKeyFromFile()
 {
-	// ASCII for 'A' is 65, 'Z' is 90.
 	char entry;
 	map<char, char> key;
 	ifstream fin;
@@ -93,6 +97,7 @@ map<char, char> setKeyFromFile()
 	if (fin.is_open())
 	{
 		for (int i = 65; i < 91; )
+			// ASCII for 'A' is 65, 'Z' is 90.
 		{
 			fin >> entry;
 			if (islower(entry))

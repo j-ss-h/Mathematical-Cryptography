@@ -1,5 +1,9 @@
+/*
+This is the primary control interface, which runs at start. 
+*/
+
+#include "GLOBAL_VARIABLES.h"
 #include "DISPLAY.h"
-#include "MAPS.h"
 #include "AFFINE_CIPHER.h"
 #include "SUBSTITUTION_CIPHER.h"
 #include "VIGENERE_CIPHER.h"
@@ -21,7 +25,8 @@ void cipherInterface(void)
 			<< "4.) Affine cipher\n"
 			<< "5.) Substitution cipher\n"
 			<< "6.) Vigenere cipher\n"
-			//<< "7.) Hill cipher\n"
+			<< "7.) Auto-key cipher\n"
+			//<< "8.) Hill cipher??\n"
 			// additions will be made when more material is introduced. 
 			<< "0.) Exit.\n\n"
 			<< "Selection: ";
@@ -96,6 +101,17 @@ void cipherInterface(void)
 			{
 				puts("");
 				cipherVigenere(text);
+			}
+			break;
+		case 7:
+			if (!data)
+			{
+				cout << "Fetch input data first.\n";
+			}
+			else
+			{
+				puts("");
+				cipherAutokey(text);
 			}
 			break;
 		case 0:
