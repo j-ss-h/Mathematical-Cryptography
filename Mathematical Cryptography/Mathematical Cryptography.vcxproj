@@ -126,6 +126,7 @@
   <ItemGroup>
     <ClInclude Include="AFFINE_CIPHER.h" />
     <ClInclude Include="DISPLAY.h" />
+    <ClInclude Include="HILL_CIPHER.h" />
     <ClInclude Include="INTERFACE.h" />
     <ClInclude Include="GLOBAL_VARIABLES.h" />
     <ClInclude Include="SUBSTITUTION_CIPHER.h" />

@@ -7,15 +7,14 @@ This header contains the following ciphers:
 vector<vector<char> > encryptVIGENERE(vector<vector<char> > input, string keyWord) // returns encrypted 2-D char vector
 {
 	// encryption block. 
-	int q = 0; // index used for key.
 	for (int i = 0; i < input.size(); i++)
 	{
 		for (int j = 0; j < input[i].size(); j++)
 		{
 			if (isalpha(input[i][j]))
 			{
-				input[i][j] = MOD26char[(MOD26int[input[i][j]] + MOD26int[keyWord[q % keyWord.size()]]) % 26]; // performs vigenere/autokey encryption
-				q++;
+				input[i][j] = MOD26char[(MOD26int[input[i][j]] + MOD26int[keyWord[j % keyWord.size()]]) % 26]; // performs vigenere/autokey encryption
+				
 			}
 		}
 	}
@@ -25,15 +24,14 @@ vector<vector<char> > encryptVIGENERE(vector<vector<char> > input, string keyWor
 vector<vector<char> > decryptVIGENERE(vector<vector<char> > input, string keyWord) // returns decrypted 2-D char vector
 {
 	// decryption block. 
-	int q = 0; // index used for key.
 	for (int i = 0; i < input.size(); i++)
 	{
 		for (int j = 0; j < input[i].size(); j++)
 		{
 			if (isalpha(input[i][j]))
 			{
-				input[i][j] = MOD26char[(MOD26int[input[i][j]] + 26 - MOD26int[keyWord[q % keyWord.size()]]) % 26]; // performs vigenere/autokey decryption. 
-				q++;																  // added 26 to account for negative values. 
+				input[i][j] = MOD26char[(MOD26int[input[i][j]] + 26 - MOD26int[keyWord[j % keyWord.size()]]) % 26]; // performs vigenere/autokey decryption. 
+																				  // added 26 to account for negative values. 
 			}
 		}
 	}

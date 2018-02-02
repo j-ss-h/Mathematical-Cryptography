@@ -124,13 +124,7 @@ void cipherMultiplicative(vector<vector<char> > text)
 			{
 				cout << "\nEnter factor value (must be invertible): ";
 				cin >> factor;
-				for (map<int, int>::iterator it = MULinverse.begin(); it != MULinverse.end() && !done; it++)
-				{
-					if (it->first == factor)
-					{
-						done = true;
-					}
-				}
+				(MULinverse.find(factor) != MULinverse.end()) ? done = true : done = false;
 				if (!done)
 				{
 					cout << factor << " is not invertible.\n";

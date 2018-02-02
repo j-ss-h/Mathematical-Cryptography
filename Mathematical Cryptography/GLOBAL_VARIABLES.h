@@ -31,5 +31,5 @@ map<int, int> MULinverse = { { 1, 1 },{ 3, 9 },{ 5, 21 },{ 7, 15 },{ 9, 3 },{ 11
 vector<vector<char> > cipher, answer;
 map<char, char> encryptKey, decryptKey;
 bool keyset, done;
-int choice = -1, factor = 1, shift = 1, counter = 0;
+int choice = -1, factor = 1, shift = 1, counter = 0, row = 0, col = 0;
 ofstream fout;

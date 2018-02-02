@@ -5,6 +5,18 @@ This stores methods for ouput and formatting.
 	3.) Format plaintext (format carries over to ciphertext). 
 */
 
+void displayToScreen(vector<vector<int> > input)
+{
+	for (int i = 0; i < input.size(); i++)
+	{
+		for (int j = 0; j < input[i].size(); j++)
+		{
+			cout << input[i][j] << "\t";
+		}
+		puts("");
+	}
+}
+
 void displayToScreen(vector<vector<char> > input)
 {
 	for (int i = 0; i < input.size(); i++)

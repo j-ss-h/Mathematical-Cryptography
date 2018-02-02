@@ -1,30 +1,37 @@
 ﻿  main.cpp
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(3): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(5): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(15): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(17): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(32): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(47): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\affine_cipher.h(4): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\affine_cipher.h(6): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\affine_cipher.h(20): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\affine_cipher.h(22): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\substitution_cipher.h(4): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\substitution_cipher.h(6): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\substitution_cipher.h(20): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\substitution_cipher.h(22): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(5): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(7): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(23): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(25): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(59): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\auto_key.h(5): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\auto_key.h(7): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\auto_key.h(23): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\auto_key.h(25): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\auto_key.h(60): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\auto_key.h(67): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\auto_key.h(69): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\interface.h(12): warning C4101: 'input': unreferenced local variable
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\main.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\display.h(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\affine_cipher.h(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\affine_cipher.h(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\affine_cipher.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\affine_cipher.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\substitution_cipher.h(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\substitution_cipher.h(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\substitution_cipher.h(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\substitution_cipher.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(123): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\interface.h(16): warning C4101: 'input': unreferenced local variable
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\main.cpp(25): warning C4326: return type of 'main' should be 'int' instead of 'void'
   Mathematical Cryptography.vcxproj -> C:\Users\jesse\source\repos\Mathematical Cryptography\Debug\Mathematical Cryptography.exe

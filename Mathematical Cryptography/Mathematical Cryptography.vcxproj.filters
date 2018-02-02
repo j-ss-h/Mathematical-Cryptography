@@ -52,5 +52,8 @@
     <ClInclude Include="GLOBAL_VARIABLES.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="HILL_CIPHER.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
