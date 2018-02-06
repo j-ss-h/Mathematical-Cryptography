@@ -4,7 +4,7 @@ Programming: Jesse A. Hankins
 	Southeast Missouri State University
 	Course: MA464-01
 	Semester: Sprint 2018
-	Date Last Modified: 2/2/2018
+	Date Last Modified: 2/6/2018
 
 Description:
 	This file contains the interfaces and methods to perform shift, multiplicative, and affine ciphers. 
@@ -116,10 +116,10 @@ void cipherShift(vector<vector<char> > text)
 			if (fout.is_open())
 			{
 				cout << "All possible shift values have been attempted and sent to \"output.txt\"\n";
-				for (int i = 1; i < 26; i++)
+				for (int i = 25; i > 0; i--)
 				{
 					answer = decryptAFFINE(cipher, 1, i);
-					fout << "Shift = " << i << endl;
+					fout << "Original shift = " << (26 - i) << endl;
 					displayToFile(answer, fout);
 					fout << "\n\n";
 				}
@@ -190,8 +190,8 @@ void cipherMultiplicative(vector<vector<char> > text)
 				cout << "All possible factor values have been attempted and sent to \"output.txt\"\n";
 				for (map<int, int>::iterator it = MULinverse.begin(); it != MULinverse.end(); it++)
 				{
-					answer = decryptAFFINE(cipher, it->first, 0);
-					fout << "Factor = " << it->first << endl;
+					answer = decryptAFFINE(cipher, it->second, 0);
+					fout << "Original actor = " << it->first << endl;
 					displayToFile(answer, fout);
 					fout << "\n\n";
 				}
@@ -268,10 +268,10 @@ void cipherAffine(vector<vector<char> > text)
 				cout << "All possible factor and shift values have been attempted and sent to \"output.txt\"\n";
 				for (map<int, int>::iterator it = MULinverse.begin(); it != MULinverse.end() && !done; it++)
 				{
-					for (int j = 0; j < 26; j++)
+					for (int j = 25; j > 0; j--)
 					{
-						answer = decryptAFFINE(cipher, MULinverse[it->first], j);
-						fout << "Original Factor = " << it->first << endl << "Original Shift = " << j << endl;
+						answer = decryptAFFINE(cipher, MULinverse[it->second], j);
+						fout << "Original Factor = " << it->first << endl << "Original Shift = " << (26 - j) << endl;
 						displayToFile(answer, fout);
 						fout << "\n\n";
 					}
