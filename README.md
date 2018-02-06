@@ -12,6 +12,7 @@ ___
 | Shift          | complete      | complete              | complete                |
 | Multiplicative | complete      | complete              | complete                |
 | Affine         | complete      | complete              | complete                |
-| Substitution   | complete      | complete              | not complete            |
-| Vigenere       | complete      | complete              | not complete            |
-| Auto-Key       | complete      | complete              | not complete            |
+| Substitution   | complete      | complete              | not coded               |
+| Vigenere       | complete      | complete              | not coded               |
+| Auto-Key       | complete      | complete              | not coded               |
+| Hill           | complete      | complete              | not coded               |
