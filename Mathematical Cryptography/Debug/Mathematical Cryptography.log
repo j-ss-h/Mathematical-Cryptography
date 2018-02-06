@@ -23,15 +23,25 @@ c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\
 c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(118): warning C4018: '<': signed/unsigned mismatch
 c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(125): warning C4018: '<': signed/unsigned mismatch
 c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\vigenere_cipher.h(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(47): warning C4018: '<': signed/unsigned mismatch
 c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(49): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(52): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(66): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(68): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(99): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(102): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(105): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(108): warning C4018: '<': signed/unsigned mismatch
-c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(123): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(186): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\hill_cipher.h(193): warning C4018: '<': signed/unsigned mismatch
 c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\interface.h(16): warning C4101: 'input': unreferenced local variable
 c:\users\jesse\source\repos\mathematical cryptography\mathematical cryptography\main.cpp(25): warning C4326: return type of 'main' should be 'int' instead of 'void'
   Mathematical Cryptography.vcxproj -> C:\Users\jesse\source\repos\Mathematical Cryptography\Debug\Mathematical Cryptography.exe

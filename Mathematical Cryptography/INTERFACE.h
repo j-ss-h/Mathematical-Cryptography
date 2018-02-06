@@ -1,5 +1,18 @@
 /*
-This is the primary control interface, which runs at start. 
+File Name: INTERFACE.h
+Programming: Jesse A. Hankins
+	Southeast Missouri State University
+	Course: MA464-01
+	Semester: Sprint 2018
+	Date Last Modified: 2/2/2018
+
+Description:
+	This file contains the primary interface for the program.
+
+cipherInterface():
+	Accepts nothing.
+	Provides a menu that pulls from "input.txt" (formatted through "formatText()" in display) and passes it to the cipher menu of choice. 
+	Returns nothing. 
 */
 
 #include "GLOBAL_VARIABLES.h"
@@ -14,7 +27,7 @@ void cipherInterface(void)
 	vector<vector<char> > text;
 	string inputS;
 	char input;
-	bool data = false;
+	bool data = false; // prevents selecting a cipher before "input.txt" is read. 
 	ifstream fin;
 	int selection = -1;
 	while (selection != 0)

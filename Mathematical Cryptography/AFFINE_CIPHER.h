@@ -1,11 +1,50 @@
 /*
-This header contains the following ciphers:
-	Shift
-	Multiplicative
-	Affine
+File Name: AFFINE_CIPHER.h
+Programming: Jesse A. Hankins
+	Southeast Missouri State University
+	Course: MA464-01
+	Semester: Sprint 2018
+	Date Last Modified: 2/2/2018
+
+Description:
+	This file contains the interfaces and methods to perform shift, multiplicative, and affine ciphers. 
+
+encryptAFFINE():
+	Accepts a 2-dimensional character vector "input", a factor "a", and a shift value "b".
+	Converts each value from "input" to a Z-26 integer, then multiplies each by "a" and adds "b", 
+		finally converting that value back to a Z-26 character.
+	Returns an encrypted 2-dimensional character vector.
+
+decryptAFFINE():
+	Accepts a 2-dimensional character vector "input", a factor "a", and a shift value "b".
+	Converts each value from "input" to a Z-26 integer, then subtracts "b" and multiplies by "a", 
+		finally converting that value back to a Z-26 character.
+	Returns a decrypted 2-dimensional character vector.
+
+cipherShift():
+	Accepts a 2-dimensional character vector "text".
+	Provides a menu to accept input for a shift value "b", sets "a" to 1, and options to encrypt/decrypt using the shift cipher method.
+	Encrypting will show the result on screen. Decrypting with a known key displays the solution on screen. Decrypting with an unknown 
+		key prints all potential combinations to the file "output.txt". 
+	Returns nothing. 
+
+cipherMultiplicative():
+	Accepts a 2-dimensional character vector "text".
+	Provides a menu to accept input for a factor value "a", sets "b" to 0, and options to encrypt/decrypt using the multiplicative cipher method. 
+	Encrypting will show the result on screen. Decrypting with a known key displays the solution on screen. Decrypting with an unknown 
+		key prints all potential combinations to the file "output.txt". 
+	Returns nothing. 
+
+cipherAffine():
+	Accepts a 2-dimensional character vector "text".
+	Provides a menu to accept input for a factor value "a", shift value "a", and options to encrypt/decrypt using the affine cipher method. 
+	Encrypting will show the result on screen. Decrypting with a known key displays the solution on screen. Decrypting with an unknown 
+		key prints all potential combinations to the file "output.txt". 
+	Returns nothing. 
 */
 
-vector<vector<char> > encryptAFFINE(vector<vector<char> > input, int a, int b) // returns encrypted 2-D char vector
+vector<vector<char> > encryptAFFINE(vector<vector<char> > input, int a, int b) 
+// returns encrypted 2-D char vector
 {
 	// encryption block. 
 	for (int i = 0; i < input.size(); i++)
@@ -14,14 +53,16 @@ vector<vector<char> > encryptAFFINE(vector<vector<char> > input, int a, int b) /
 		{
 			if (isalpha(input[i][j]))
 			{
-				input[i][j] = MOD26char[((MOD26int[input[i][j]] * a) + b) % 26]; // performs affine encryption
+				input[i][j] = MOD26char[((MOD26int[input[i][j]] * a) + b) % 26]; 
+				// performs affine encryption
 			}
 		}
 	}
 	return input;
 }
 
-vector<vector<char> > decryptAFFINE(vector<vector<char> > input, int a, int b) // returns decrypted 2-D char vector
+vector<vector<char> > decryptAFFINE(vector<vector<char> > input, int a, int b) 
+// returns decrypted 2-D char vector
 {
 	// decryption block. 
 	for (int i = 0; i < input.size(); i++)
@@ -30,8 +71,8 @@ vector<vector<char> > decryptAFFINE(vector<vector<char> > input, int a, int b) /
 		{
 			if (isalpha(input[i][j]))
 			{
-				input[i][j] = MOD26char[((MOD26int[input[i][j]] + 26 - b) * a) % 26]; // performs affine decryption. 
-																				// added 26 to account for negative values. 
+				input[i][j] = MOD26char[((MOD26int[input[i][j]] + 26 - b) * a) % 26]; 
+				// performs affine decryption. added 26 to account for negative values. 
 			}
 		}
 	}

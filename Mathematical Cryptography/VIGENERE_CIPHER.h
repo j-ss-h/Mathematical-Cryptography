@@ -1,10 +1,44 @@
 /*
-This header contains the following ciphers:
-	Vigenere
-	Auto-Key
+File Name: VIGENERE_CIPHER.h
+Programming: Jesse A. Hankins
+	Southeast Missouri State University
+	Course: MA464-01
+	Semester: Sprint 2018
+	Date Last Modified: 2/2/2018
+
+Description:
+	This file contains the interfaces and methods to perform vigenere and auto-key ciphers.
+
+encryptVIGENERE():
+	Accepts a 2-dimensional character vector "input", and a string "keyWord".
+	Converts each value from "input" and "keyWord" to a Z-26 integer, adds the pairs of values then converts that value 
+		back to a Z-26 character. If "input" is longer than "keyWord" then "keyWord" will cycle through its values until 
+		the end of "input" is reached.
+	Returns an encrypted 2-dimensional character vector.
+
+decryptVIGENERE():
+	Accepts a 2-dimensional character vector "input", and a string "keyWord".
+	Converts each value from "input" and "keyWord" to a Z-26 integer, subtracts "keyWord" values from "input" values in 
+		pairs then converts that value back to a Z-26 character. If "input" is longer than "keyWord" then "keyWord" will 
+		cycle through its values until the end of "input" is reached.
+	Returns a decrypted 2-dimensional character vector.
+
+cipherVigenere():
+	Accepts a 2-dimensional character vector "text".
+	Provides a menu to accept input for a key value "keyWord", and options to encrypt/decrypt using the vigenere cipher method.
+	Encrypting/Decrypting will show the result on screen. 
+	Returns nothing.
+
+cipherAutokey():
+	Accepts a 2-dimensional character vector "text".
+	Provides a menu to accept input for a key value "keyWord", and options to encrypt/decrypt using the vigenere cipher method.
+	"keyWord" is backfilled starting from the front of "text" until it has the same character length as "text".
+	Encrypting/Decrypting will show the result on screen. 
+	Returns nothing.
 */
 
-vector<vector<char> > encryptVIGENERE(vector<vector<char> > input, string keyWord) // returns encrypted 2-D char vector
+vector<vector<char> > encryptVIGENERE(vector<vector<char> > input, string keyWord) 
+// returns encrypted 2-D char vector
 {
 	// encryption block. 
 	for (int i = 0; i < input.size(); i++)
@@ -13,15 +47,16 @@ vector<vector<char> > encryptVIGENERE(vector<vector<char> > input, string keyWor
 		{
 			if (isalpha(input[i][j]))
 			{
-				input[i][j] = MOD26char[(MOD26int[input[i][j]] + MOD26int[keyWord[j % keyWord.size()]]) % 26]; // performs vigenere/autokey encryption
-				
+				input[i][j] = MOD26char[(MOD26int[input[i][j]] + MOD26int[keyWord[j % keyWord.size()]]) % 26]; 
+				// performs vigenere/autokey encryption
 			}
 		}
 	}
 	return input;
 }
 
-vector<vector<char> > decryptVIGENERE(vector<vector<char> > input, string keyWord) // returns decrypted 2-D char vector
+vector<vector<char> > decryptVIGENERE(vector<vector<char> > input, string keyWord) 
+// returns decrypted 2-D char vector
 {
 	// decryption block. 
 	for (int i = 0; i < input.size(); i++)
@@ -30,8 +65,8 @@ vector<vector<char> > decryptVIGENERE(vector<vector<char> > input, string keyWor
 		{
 			if (isalpha(input[i][j]))
 			{
-				input[i][j] = MOD26char[(MOD26int[input[i][j]] + 26 - MOD26int[keyWord[j % keyWord.size()]]) % 26]; // performs vigenere/autokey decryption. 
-																				  // added 26 to account for negative values. 
+				input[i][j] = MOD26char[(MOD26int[input[i][j]] + 26 - MOD26int[keyWord[j % keyWord.size()]]) % 26]; 
+				// performs vigenere/autokey decryption. added 26 to account for negative values. 
 			}
 		}
 	}
@@ -51,7 +86,6 @@ void cipherVigenere(vector<vector<char> > text) // interface for Vigenere cipher
 			<< "1.) Set key word.\n"
 			<< "2.) Encrypt string: " << (keyset ? "key word is " : "set key first") << keyWord << "\n"
 			<< "3.) Decrypt string: " << (keyset ? "key word is " : "set key first") << keyWord << "\n"
-			<< "4.) Decrypt string: key unknown (currently unavailable)\n"
 			<< "0.) Return to previous menu.\n\n"
 			<< "Selection: ";
 		cin >> choice;
@@ -78,9 +112,6 @@ void cipherVigenere(vector<vector<char> > text) // interface for Vigenere cipher
 			cout << "\nDecrypted string:\n";
 			answer = decryptVIGENERE(cipher, keyWord);
 			displayToScreen(answer);
-			break;
-		case 4:
-			cout << "This function is not currently available.\n";
 			break;
 		case 0:
 			cout << "Returning to previous menu...";

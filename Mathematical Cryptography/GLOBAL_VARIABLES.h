@@ -1,9 +1,25 @@
-/* 
-	This stores multiple global items for the ciphers:
-	1.) maps with the values needed for modulus 26.
-	2.) map with the multiplicative inverse of each int in modulus 26.
-	3.) global variables used by each cipher menu and functions. 
-	4.) all libraries needed for the program. 
+/*
+File Name: GLOBAL_VARIABLES.h
+Programming: Jesse A. Hankins
+	Southeast Missouri State University
+	Course: MA464-01
+	Semester: Sprint 2018
+	Date Last Modified: 2/2/2018
+
+Description:
+	This file contains the global variables needed to perform ciphers, and libraries for the methods used. 
+
+MOD26int: 
+	map that accepts an uppercase character, and returns the integer value of it in Z-26.
+
+MOD26char: 
+	map that accepts an integer, and returns the uppercase character value of it in Z-26.
+
+MULinverse: 
+	map that accepts an integer, and returns the multiplicative inverse of it in Z-26. 
+
+Miscellaneous: 
+	These are containers and variables used by each cipher menu and functions. 
 */
 #include <iostream>
 #include <vector>

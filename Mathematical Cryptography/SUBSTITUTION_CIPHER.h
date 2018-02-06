@@ -1,6 +1,45 @@
 /*
-This header contains the following ciphers:
-	Substitution
+File Name: SUBSTITUTION_CIPHER.h
+Programming: Jesse A. Hankins
+	Southeast Missouri State University
+	Course: MA464-01
+	Semester: Sprint 2018
+	Date Last Modified: 2/2/2018
+
+Description:
+	This file contains the interface and methods to perform the substitution cipher.
+
+encryptSUBSTITUTION():
+	Accepts a 2-dimensional character vector "input", and a string "keyWord".
+	Converts each value from "input" through map "encryptKey" found in GLOBAL_VARIABLES.h. 
+	Returns an encrypted 2-dimensional character vector.
+
+decryptSUBSTITUTION():
+	Accepts a 2-dimensional character vector "input", and a string "keyWord".
+	Converts each value from "input" through map "decryptKey" found in GLOBAL_VARIABLES.h. 
+	Returns a decrypted 2-dimensional character vector.
+
+setKey():
+	Accepts nothing.
+	Creates a 1 to 1 substitution mapping of the English alphabet in Z-26 starting from A and accepting input from the user. 
+	Returns a map of characters keyed by characters. 
+
+setOtherKey():
+	Accepts a map of characters keyed with characters. 
+	Inverts the keys and values found in the map created by either the "setKey()" or "setKeyFromFile()" methods. 
+	Returns a map of characters keyed with characters. 
+
+setKeyFromFile():
+	Accepts a map of characters keyed with characters. 
+	Creates a 1 to 1 substitution mapping of the English alphabet in Z-26 starting from A and accepting input from a user specified text file.
+	Returns a map of characters keyed with characters. 
+
+cipherSubstitution():
+	Accepts a 2-dimensional character vector "text".
+	Provides a menu to accept input for a key value "encryptKey" or "decryptKey" found in GLOBAL_VARIABLES.h 
+		(then automatically sets the others value), and options to encrypt/decrypt using the substitution cipher method.
+	Encrypting/Decrypting will show the result on screen.
+	Returns nothing.
 */
 
 vector<vector<char> > encryptSUBSTITUTION(vector<vector<char> > input) // returns encrypted 2-D char vector
@@ -33,16 +72,6 @@ vector<vector<char> > decryptSUBSTITUTION(vector<vector<char> > input) // return
 		}
 	}
 	return input;
-}
-
-map<char, char> setOtherKey(map<char, char> input)
-{
-	map<char, char> key;
-	for (map<char, char>::iterator it = input.begin(); it != input.end(); it++) // inverts keys and values. 
-	{
-		key.insert(pair<char, char> (it->second, it->first));
-	}
-	return key;
 }
 
 map<char, char> setKey()
@@ -81,6 +110,16 @@ map<char, char> setKey()
 				i++; // increment of "for loop" variable. 
 			}
 		}
+	}
+	return key;
+}
+
+map<char, char> setOtherKey(map<char, char> input)
+{
+	map<char, char> key;
+	for (map<char, char>::iterator it = input.begin(); it != input.end(); it++) // inverts keys and values. 
+	{
+		key.insert(pair<char, char>(it->second, it->first));
 	}
 	return key;
 }
@@ -132,7 +171,6 @@ void cipherSubstitution(vector<vector<char> > text)
 			<< "1.) Set keys.\n"
 			<< "2.) Encrypt string: " << (keyset ? "key is set" : "set key first") << "\n"
 			<< "3.) Decrypt string: " << (keyset ? "key is set" : "set key first") << "\n"
-			<< "4.) Decrypt string: key unknown (currently unavailable)\n"
 			<< "0.) Return to previous menu.\n\n"
 			<< "Selection: ";
 		cin >> choice;
@@ -212,9 +250,6 @@ void cipherSubstitution(vector<vector<char> > text)
 			{
 				cout << "Set key first.\n";
 			}
-			break;
-		case 4:
-			cout << "This function is not currently available.\n";
 			break;
 		case 0:
 			cout << "Returning to previous menu...";
