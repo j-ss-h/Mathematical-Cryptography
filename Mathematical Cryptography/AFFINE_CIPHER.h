@@ -119,7 +119,7 @@ void cipherShift(vector<vector<char> > text)
 				for (int i = 25; i > 0; i--)
 				{
 					answer = decryptAFFINE(cipher, 1, i);
-					fout << "Original shift = " << (26 - i) << endl;
+					fout << "Original Shift = " << (26 - i) << endl;
 					displayToFile(answer, fout);
 					fout << "\n\n";
 				}
@@ -191,7 +191,7 @@ void cipherMultiplicative(vector<vector<char> > text)
 				for (map<int, int>::iterator it = MULinverse.begin(); it != MULinverse.end(); it++)
 				{
 					answer = decryptAFFINE(cipher, it->second, 0);
-					fout << "Original actor = " << it->first << endl;
+					fout << "Original Factor = " << it->first << endl;
 					displayToFile(answer, fout);
 					fout << "\n\n";
 				}
